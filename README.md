@@ -65,3 +65,10 @@ release：发行版。此版本基本是一家客户的最后一个beta版，此
 版本号上一级增加时，下级要归0。
 希腊字母版本号以低级为主。
     如：下一版本同时是某功能的稳定版且是某一功能base版，则希腊字母版本号为base。
+
+
+# ***Vote***
+
+```
+$ polls Agree Disagree "I have other proposal"
+```
