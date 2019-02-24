@@ -69,7 +69,4 @@ release：发行版。此版本基本是一家客户的最后一个beta版，此
 
 # ***Vote***
 
-
-[![](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/Agree/vote)](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/Agree/vote)
-[![](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/Disagree/vote)](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/Disagree/vote)
-[![](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/I%20have%20other%20proposals/vote)](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/I%20have%20other%20proposals/vote)
+$ polls Agree Disagree "I have other proposal"
