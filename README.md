@@ -1,3 +1,13 @@
+<h4 align="center"><i><b> To Infinity... and Beyond! </b></i></h4>
+<p align="center">
+  <a href="https://github.com/EDITeam/versionnumbering"><img src="./static/buzz-lightyear.png" width="160" alt="Buzz Lightyear's logo" /></a>
+</p>
+<h3 align="center"><a href="https://github.com/EDITeam/versionnumbering">Buzz Lightyear</a></h3>
+
+# **Buzz Lightyear**
+
+***Buzz Lightyear*** is our version numberings name!
+
 # 版本号命名规则与说明
 
 ## 1.版本命名规范
