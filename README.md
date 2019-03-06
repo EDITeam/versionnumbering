@@ -1,6 +1,6 @@
 <h4 align="center"><i><b> To Infinity... and Beyond! </b></i></h4>
 <p align="center">
-  <a href="https://github.com/EDITeam/versionnumbering"><img src="./static/buzz-lightyear.png" width="160" alt="Buzz Lightyear's logo" /></a>
+  <a href="https://github.com/EDITeam/versionnumbering"><img src="/static/buzz-lightyear.png" width="160" alt="Buzz Lightyear's logo" /></a>
 </p>
 <h3 align="center"><a href="https://github.com/EDITeam/versionnumbering">Buzz Lightyear</a></h3>
 
