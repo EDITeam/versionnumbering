@@ -1,4 +1,5 @@
 # 版本号命名规则与说明
+
 ## 1.版本命名规范
 
 版本号由四部分组成，第一部分为主版本号，第二部分为次版本号，第三部分为修订版本号，第四部分为希腊字母版本号。希腊字母版本号共有五种，分别为base、alpha、beta、RC、release。
@@ -65,3 +66,22 @@ release：发行版。此版本基本是一家客户的最后一个beta版，此
 版本号上一级增加时，下级要归0。
 希腊字母版本号以低级为主。
     如：下一版本同时是某功能的稳定版且是某一功能base版，则希腊字母版本号为base。
+
+# ***Vote***
+
+[![](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/Agree)](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/Agree/vote)
+[![](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/Disagree)](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/Disagree/vote)
+[![](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/I%20have%20other%20proposals)](https://api.gh-polls.com/poll/01D4EXW6HB0307XQTJSPRTH1W3/I%20have%20other%20proposals/vote)
+
+# ***Contributors***
+<a href="https://github.com/EDITeam/versionnumbering/graphs/contributors">
+  <img src="https://avatars2.githubusercontent.com/u/16353458?s=400&v=4" width="70" alt="Harold.Duan" />
+  <img src="https://avatars3.githubusercontent.com/u/4202696?s=400&v=4" width="70" alt="Pancy.Fan" />
+  <img src="https://avatars2.githubusercontent.com/u/28555389?s=400&v=4" width="70" alt="Aaton.Kang" />
+  <img src="https://avatars1.githubusercontent.com/u/45222954?s=400&v=4" width="70" alt="Shuo.Liu" /></a>
+</a>
+
+# ***Thanks***
+<h3 align="left">
+  <a href="https://github.com/EDITeam">EDITeam</a>
+</h3>
