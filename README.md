@@ -4,9 +4,9 @@
 </p>
 <h3 align="center"><a href="https://github.com/EDITeam/versionnumbering">Buzz Lightyear</a></h3>
 
-# **Buzz Lightyear**
+# **Buzz Lightyear** ![progress](http://progressed.io/bar/10?title=done) ![version](https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000) ![license](https://img.shields.io/badge/license-MIT-green.svg) ![date](https://img.shields.io/date/1550979780.svg)
 
-***Buzz Lightyear*** is our version numberings name!
+***Buzz Lightyear*** is our version numbering project's nickname!
 
 # 版本号命名规则与说明
 
